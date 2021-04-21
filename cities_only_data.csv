@@ -1,0 +1,121 @@
+,CITY,STABBR,Mid-Career Median Salary,Starting Median Salary,LOCALE,School Type
+0,Ames,IA,84600.0,45400.0,13,State
+3,Anchorage,AK,72600.0,45900.0,11,State
+7,Athens,GA,86000.0,44100.0,12,Party
+8,Athens,GA,86000.0,44100.0,12,State
+10,Atlanta,GA,82800.0,46900.0,11,State
+11,Auburn,AL,84700.0,45400.0,13,State
+14,Beaumont,TX,79400.0,46500.0,12,State
+15,Bellingham,WA,73150.0,40650.0,13,State
+16,Bellingham,WA,73150.0,40650.0,13,State
+17,Berkeley,CA,112000.0,59900.0,12,State
+19,Bethlehem,PA,89700.0,50850.0,13,Liberal Arts
+20,Billings,MT,50600.0,37900.0,12,State
+21,Birmingham,AL,70100.0,39200.0,12,State
+22,Blacksburg,VA,95400.0,53500.0,13,Engineering
+23,Bloomington,IN,84000.0,46300.0,13,Party
+24,Bloomington,IN,84000.0,46300.0,13,State
+25,Boca Raton,FL,71100.0,42600.0,13,State
+26,Boise,ID,69500.0,40800.0,12,State
+29,Boston,MA,87516.66666666667,48816.666666666664,11,State
+33,Boston,MA,87516.66666666667,48816.666666666664,11,Engineering
+34,Boulder,CO,97600.0,47100.0,12,State
+41,Burlington,VT,82700.0,44800.0,13,State
+42,Cambridge,MA,125000.0,67800.0,12,Ivy League
+43,Cambridge,MA,125000.0,67800.0,12,Engineering
+44,Carbondale,IL,72500.0,43000.0,13,State
+45,Carson,CA,72100.0,42700.0,13,State
+47,Champaign,IL,96100.0,52900.0,13,Party
+48,Champaign,IL,96100.0,52900.0,13,State
+49,Chapel Hill,NC,81500.0,42900.0,13,State
+50,Charlotte,NC,74000.0,43100.0,11,State
+56,Chicago,IL,93100.0,48940.0,11,Liberal Arts
+58,Chicago,IL,93100.0,48940.0,11,State
+59,Chicago,IL,93100.0,48940.0,11,Engineering
+60,Chico,CA,88100.0,47400.0,13,State
+63,Clarksville,TN,59200.0,37700.0,12,State
+66,Cleveland,OH,84800.0,49850.0,11,State
+73,Colorado Springs,CO,81400.0,38500.0,11,Liberal Arts
+74,Columbia,MO,81000.0,41700.0,12,State
+76,Corvallis,OR,83300.0,45100.0,13,State
+83,Detroit,MI,76100.0,42800.0,11,State
+87,East Lansing,MI,85300.0,46300.0,13,State
+89,Eau Claire,WI,64800.0,41400.0,13,State
+90,Eugene,OR,78400.0,42200.0,12,State
+96,Fayetteville,AR,82200.0,43250.0,13,State
+97,Fayetteville,AR,82200.0,43250.0,13,State
+100,Gainesville,FL,87900.0,47100.0,12,Party
+101,Gainesville,FL,87900.0,47100.0,12,State
+104,Gettysburg,PA,85800.0,44700.0,13,Liberal Arts
+106,Grand Forks,ND,80600.0,44000.0,13,State
+109,Green Bay,WI,60600.0,35800.0,12,State
+113,Greenville,NC,67500.0,40200.0,13,State
+121,Houston,TX,94950.0,55000.0,11,State
+124,Huntsville,AL,82700.0,43100.0,12,State
+125,Iowa City,IA,83900.0,44700.0,13,Party
+126,Iowa City,IA,83900.0,44700.0,13,State
+127,Irvine,CA,96700.0,48300.0,11,State
+128,Ithaca,NY,98700.0,51500.0,13,Ivy League
+131,Kalamazoo,MI,72950.0,41300.0,13,State
+132,Kalamazoo,MI,72950.0,41300.0,13,State
+133,Kansas City,MO,65800.0,38900.0,11,State
+136,La Crosse,WI,69300.0,42200.0,13,State
+137,La Jolla,CA,101000.0,51100.0,11,State
+138,Lafayette,LA,76300.0,41100.0,12,State
+140,Lancaster,PA,92800.0,49100.0,13,Liberal Arts
+142,Las Vegas,NV,71600.0,45200.0,12,State
+143,Lawrence,KS,82200.0,43250.0,13,State
+144,Lawrence,KS,82200.0,43250.0,13,State
+147,Lewiston,ME,96500.0,47300.0,13,Liberal Arts
+148,Lexington,KY,78300.0,42800.0,11,State
+150,Lincoln,NE,95800.0,47200.0,11,Liberal Arts
+151,Logan,UT,78700.0,43800.0,13,State
+152,Long Beach,CA,84700.0,45100.0,11,State
+154,Los Angeles,CA,102300.0,53350.0,11,Liberal Arts
+158,Madison,WI,87800.0,48900.0,11,State
+159,Manhattan,KS,79000.0,43300.0,13,State
+160,Mankato,MN,74700.0,43300.0,13,State
+161,Memphis,TN,69700.0,41400.0,11,State
+165,Middletown,CT,97900.0,46500.0,13,Liberal Arts
+167,Milwaukee,WI,81500.0,45400.0,11,State
+171,Morgantown,WV,78100.0,43100.0,13,Party
+172,Morgantown,WV,78100.0,43100.0,13,State
+174,Muncie,IN,64500.0,39100.0,13,State
+176,New Haven,CT,126000.0,59100.0,12,Ivy League
+187,Northridge,CA,80400.0,45500.0,11,State
+191,Omaha,NE,72600.0,41500.0,11,State
+195,Oshkosh,WI,66400.0,39300.0,13,State
+197,Pasadena,CA,123000.0,75500.0,12,Engineering
+201,Philadelphia,PA,99400.0,52566.666666666664,11,Ivy League
+203,Pittsburgh,PA,97700.0,51250.0,11,Engineering
+206,Pocatello,ID,73400.0,44900.0,13,State
+207,Portland,ME,63600.0,39400.0,13,State
+208,Portland,OR,74866.66666666667,40666.666666666664,11,Liberal Arts
+209,Portland,OR,74866.66666666667,40666.666666666664,11,State
+210,Portland,OR,74866.66666666667,40666.666666666664,11,Liberal Arts
+212,Princeton,NJ,131000.0,66500.0,13,Ivy League
+213,Providence,RI,98800.0,52100.0,12,Ivy League
+217,Rapid City,SD,93400.0,55800.0,13,Engineering
+218,Reno,NV,82900.0,46500.0,11,State
+219,Richmond,VA,68400.0,42000.0,12,State
+220,Riverside,CA,81300.0,46800.0,11,State
+221,Roanoke,VA,95400.0,53500.0,13,Engineering
+223,Sacramento,CA,82400.0,47800.0,11,State
+226,Salt Lake City,UT,83200.0,45400.0,12,State
+227,San Diego,CA,85200.0,46200.0,11,State
+228,San Francisco,CA,86400.0,47300.0,11,State
+229,San Jose,CA,95600.0,53500.0,11,State
+232,Santa Cruz,CA,84100.0,44700.0,13,State
+235,Schenectady,NY,95800.0,47200.0,13,Liberal Arts
+242,Springfield,OH,78200.0,39200.0,13,Liberal Arts
+250,Tacoma,WA,81500.0,46600.0,12,Liberal Arts
+251,Tallahassee,FL,73000.0,42100.0,12,Party
+252,Tallahassee,FL,73000.0,42100.0,12,State
+253,Toledo,OH,75900.0,43100.0,11,State
+254,Troy,NY,110000.0,61100.0,13,Engineering
+255,Tucson,AZ,86100.0,47500.0,11,State
+260,University of Richmond,VA,94600.0,48600.0,12,Liberal Arts
+266,Walla Walla,WA,80100.0,43500.0,13,Liberal Arts
+275,Wilmington,NC,64400.0,37500.0,12,State
+276,Worcester,MA,110000.0,55600.0,12,Liberal Arts
+277,Worcester,MA,110000.0,55600.0,12,Engineering
