@@ -1,106 +1,165 @@
-,Variable,missing_count,missing_ratio,label
-2,DEBT_MDN_SUPP,64,0.009403467528651191,Median debt
-17,NOTFIRSTGEN_DEBT_MDN,64,0.009403467528651191, The median debt for not-first-generation students
-18,FIRSTGEN_DEBT_MDN,64,0.009403467528651191, The median debt for first-generation students
-19,MALE_DEBT_MDN,64,0.009403467528651191, The median debt for male students
-20,FEMALE_DEBT_MDN,64,0.009403467528651191, The median debt for female students
-22,PELL_DEBT_MDN,64,0.009403467528651191, The median debt for Pell students
-23,IND_DEBT_MDN,64,0.009403467528651191, The median debt for independent students
-25,HI_INC_DEBT_MDN,64,0.009403467528651191,  The median debt for students with family income $75001
-26,MD_INC_DEBT_MDN,64,0.009403467528651191, The median debt for students with family income between 30001-$75000
-27,LO_INC_DEBT_MDN,64,0.009403467528651191, The median debt for students with family income between$0-$30000
-28,WDRAW_DEBT_MDN,64,0.009403467528651191,The median debt for students who have completed
-29,GRAD_DEBT_MDN,64,0.009403467528651191, The median original amount of the loan principal upon entering repayment
-30,DEBT_MDN,64,0.009403467528651191, Number of first-generation students in overall 4-year completion
-579,FIRSTGEN_YR4_N,142,0.020863943579194827,  Number of no-loan students in overall 4-year completion cohort
-580,NOLOAN_YR4_N,142,0.020863943579194827,Number of loan students in overall 4-year completion cohort
-581,LOAN_YR4_N,142,0.020863943579194827, Number of dependent students in overall 4-year completion cohort
-606,DEP_YR4_N,142,0.020863943579194827, Number of independent students in overall 4-year completion cohort
-623,IND_YR4_N,142,0.020863943579194827, Number of high-income (above $75000 in nominal family income) students in overall 4-year completion cohort
-626,HI_INC_YR4_N,142,0.020863943579194827,Number of students in overall 4-year completion cohort completion.4_yr_completion.low_income
-628,LO_INC_YR4_N,142,0.020863943579194827,Flag for men-only college
-1295,MENONLY,260,0.03820158683514546,Flag for women-only college
-1297,WOMENONLY,260,0.03820158683514546,Carnegie Classification -- basic
-1299,CCBASIC,260,0.03820158683514546, Flag for Hispanic-serving institution
-1462,HSI,263,0.038642374375550986,Flag for Alaska Native Native Hawaiian serving institution
-1475,TRIBAL,263,0.038642374375550986, Flag for Historically Black College and University school
-1498,PBI,263,0.038642374375550986, Flag for predominantly black institution
-1499,ANNHI,263,0.038642374375550986,Number of students in the parents' education level cohort
-1505,PAR_ED_N,274,0.04025859535703791,Average family income for independent students in real 2015 dollars
-1508,FAMINC_IND,274,0.04025859535703791,Median family income in real 2015 dollars
-1509,MD_FAMINC,274,0.04025859535703791,Average family income in real 2015 dollars
-1510,FAMINC,274,0.04025859535703791, Share of first-generation students
-1511,FIRST_GEN,274,0.04025859535703791,Share of veteran students
-1512,VETERAN,274,0.04025859535703791, Share of dependent students
-1513,DEPENDENT,274,0.04025859535703791, Share of married students
-1514,MARRIED,274,0.04025859535703791, Share of female students
-1515,FEMALE,274,0.04025859535703791,Average age of entry
-1517,AGE_ENTRY,274,0.04025859535703791,Share of students who received a Pell Grant while in school
-1518,PELL_EVER,274,0.04025859535703791,Number of students in the family income cohort
-1519,INC_N,274,0.04025859535703791, Number of students in the family income dependent students cohort
-1520,DEP_INC_N,274,0.04025859535703791, Percentage of students who are financially independent and have family incomes between $0-30000
-1521,IND_INC_PCT_LO,274,0.04025859535703791, Percentage of students who are financially dependent and have family incomes between $0-30000
-1522,DEP_INC_PCT_LO,274,0.04025859535703791,Percentage first-generation studentsstudent.share_middleincome.30001_48000
-1523,PAR_ED_PCT_1STGEN,274,0.04025859535703791, Aided students with family incomes between $30001-$48000in nominal dollars
-1524,INC_PCT_M1,274,0.04025859535703791,Aided students with family incomes between $48
-1525,INC_PCT_M2,274,0.04025859535703791,001-$75
-1526,INC_PCT_H1,274,0.04025859535703791,000 in nominal dollars
-1527,INC_PCT_H2,274,0.04025859535703791,Aided students with family incomes between $75
-1533,DEP_STAT_PCT_IND,274,0.04025859535703791,001-$110
-1535,IND_INC_PCT_H2,274,0.04025859535703791,000 in nominal dollars
-1536,PAR_ED_PCT_MS,274,0.04025859535703791, Aided students with family incomes between $110001+ in nominal dollars
-1537,PAR_ED_PCT_HS,274,0.04025859535703791, Percentage of students who are financially independent
-1538,PAR_ED_PCT_PS,274,0.04025859535703791,Independent students with family incomes between $110001+ in nominal dollars
-1543,DEP_INC_AVG,274,0.04025859535703791, Percent of students whose parents' highest educational level is middle school
-1544,IND_INC_AVG,274,0.04025859535703791,Percent of students whose parents' highest educational level is high school
-1546,INC_PCT_LO,274,0.04025859535703791,Percent of students whose parents' highest educational level was is some form of postsecondary education
-1563,UGDS_WHITE,439,0.06450191007934175,Average family income of dependent students in real 2015 dollars
-1564,UGDS_BLACK,439,0.06450191007934175,Average family income of independent students in real 2015 dollars
-1567,UGDS_HISP,439,0.06450191007934175,Percentage of aided students whose family income is between $0-$30000
-1568,UGDS_AIAN,439,0.06450191007934175,Total share of enrollment of undergraduate degree-seeking students who are white
-1569,UGDS_ASIAN,439,0.06450191007934175,Total share of enrollment of undergraduate degree-seeking students who are black
-1570,UGDS_NHPI,439,0.06450191007934175,Total share of enrollment of undergraduate degree-seekingstudents who are American Indian/Alaska Native
-1571,UGDS_2MOR,439,0.06450191007934175,Total share of enrollment of undergraduate degree-seeking students who are Asian
-1574,UGDS_NRA,439,0.06450191007934175, Total share of enrollment of undergraduate degree-seeking students who are Native Hawaiian/Pacific Islander
-1617,PCTPELL,447,0.06567734352042316, Total share of enrollment of undergraduate degree-seeking students who are two or more races
-1618,PPTUG_EF,457,0.06714663532177491, Total share of enrollment of undergraduate degree-seeking students who are non-resident aliens
-1724,PFTFTUG1_EF,651,0.09565089626799883,Percentage of undergraduates who receive a Pell Grant
-1757,MD_EARN_WNE_P10,726,0.10667058477813694, Share of undergraduate degree-/certificate-seeking students who are part-time
-1758,MN_EARN_WNE_P10,726,0.10667058477813694, Median earnings of students working and not enrolled 10 years after entry
-1765,COUNT_NWNE_P10,726,0.10667058477813694,Mean earnings of students working and not enrolled 10 years after entry
-1775,COUNT_WNE_MALE0_P10,726,0.10667058477813694,Number of students not working and not enrolled 10 years after entry
-1776,COUNT_WNE_INDEP1_P10,726,0.10667058477813694, Number of female students working and not enrolled 10 years after entry
-1833,PCT_GRAD_PROF,1209,0.1776373787834264,number of independent students working and not enrolled 10 years after entry
-1834,PCT_ASIAN,1209,0.1776373787834264, Percent of the population from students' zip codes over 25 with a professional degree
-1835,PCT_BLACK,1209,0.1776373787834264,Percent of the population from students' zip codes that is Asian
-1836,PCT_WHITE,1209,0.1776373787834264,Percent of the population from students' zip codes that is black
-1837,POVERTY_RATE,1209,0.1776373787834264,Percent of the population from students' zip codes that is white
-1838,AGEGE24,1209,0.1776373787834264,Poverty rate
-1839,UNEMP_RATE,1209,0.1776373787834264, Percent of students over 23 at entry
-1840,PCT_BORN_US,1209,0.1776373787834264, unempolyment rate
-1841,LN_MEDIAN_HH_INC,1209,0.1776373787834264, Percent of the population from students' zip codes that was born in the US
-1842,MEDIAN_HH_INC,1209,0.1776373787834264,Log of the median household income
-1844,PCT_BA,1209,0.1776373787834264,Median household income
-1845,NUM4_PRIV,1369,0.20114604760505436,Percent of the population from students' zip codes with a bachelor's degree over the age 25
-1854,AVGFACSAL,1476,0.21686746987951808,Number of Title IV students (private for-profit and nonprofit institutions)
-1901,TUITIONFEE_IN,1661,0.2440493682045254,Average faculty salary
-1920,PFTFAC,1685,0.2475756685277696, In-state tuition and fees
-1958,C150_L4,1783,0.26197472818101675, Proportion of faculty that is full-time
-1961,TUITIONFEE_OUT,1786,0.2624155157214223, Completion rate for first-time full-time students at less-than-four-year institutions (150% of expected time to completion)
-1974,COSTT4_A,1883,0.2766676461945342, Out-of-state tuition and fees
-2042,C150_4,2282,0.335292389068469, Average cost of attendance (academic year institutions)
-2052,D150_4,2282,0.335292389068469,Completion rate for first-time full-time students at four-year institutions (150% of expected time to completion)
-2083,ADM_RATE,2463,0.36188657067293567,Adjusted cohort count for completion rate at four-year institutions
-2112,NPT4_PUB,2703,0.3971495739053776, Admission rate
-2115,NUM4_PUB,2703,0.3971495739053776,Average net price for Title IV institutions (public institutions)
-2132,SAT_AVG,2790,0.4099324125771378,  Number of Title IV students (public institutions)
-2138,SATMTMID,2820,0.41434028798119305,Average SAT equivalent score of students admitted
-2141,SATVRMID,2821,0.41448721716132825, Midpoint of SAT scores at the institution (math)
-2146,ACTENMID,2836,0.41669115486335584,Midpoint of the ACT English score
-2168,SATWRMID,3037,0.446223920070526, Midpoint of SAT scores at the institution (writing)
-2182,UG_NRA,3371,0.4952982662356744, Total share of enrollment of undergraduate students who are non-resident
-2191,AGE_ENTRY_SQ,3371,0.4952982662356744,Average of the age of entry squared
-2197,NUM4_PROG,3371,0.4952982662356744,Number of Title IV students (program-year institutions)
-2215,LNFAMINC_IND,3371,0.4952982662356744,Average of the log of family income for independent students
-2216,LNFAMINC,3371,0.4952982662356744,Average of the log of family income
-2230,NPT4_PROG,3371,0.4952982662356744, Average net price for the largest program at the institution for program-year institutions
+Variable,missing_count,missing_ratio,label
+DEBT_MDN_SUPP,64,0.009403468,Median debt
+NOTFIRSTGEN_DEBT_MDN,64,0.009403468, The median debt for not-first-generation students
+FIRSTGEN_DEBT_MDN,64,0.009403468, The median debt for first-generation students
+MALE_DEBT_MDN,64,0.009403468, The median debt for male students
+FEMALE_DEBT_MDN,64,0.009403468, The median debt for female students
+PELL_DEBT_MDN,64,0.009403468, The median debt for Pell students
+IND_DEBT_MDN,64,0.009403468, The median debt for independent students
+HI_INC_DEBT_MDN,64,0.009403468,"The median debt for students with family income $75,001+"
+MD_INC_DEBT_MDN,64,0.009403468,"The median debt for students with family income between $30,001-$75,000"
+LO_INC_DEBT_MDN,64,0.009403468,"The median debt for students with family income between $0-$30,000"
+WDRAW_DEBT_MDN,64,0.009403468,The median debt for students who have not completed
+GRAD_DEBT_MDN,64,0.009403468,The median debt for students who have completed
+DEBT_MDN,64,0.009403468,The median original amount of the loan principal upon entering repayment
+FIRSTGEN_YR4_N,142,0.020863944,Number of first-generation students in overall 4-year completion cohort
+NOLOAN_YR4_N,142,0.020863944,Number of loan students in overall 4-year completion cohort
+LOAN_YR4_N,142,0.020863944, Number of dependent students in overall 4-year completion cohort
+DEP_YR4_N,142,0.020863944, Number of dependent students in overall 4-year completion cohort
+IND_YR4_N,142,0.020863944,Number of independent students in overall 4-year completion cohort
+HI_INC_YR4_N,142,0.020863944,"Number of high-income (above $75,000 in nominal family income) students in overall 4-year completion cohort"
+LO_INC_YR4_N,142,0.020863944,"Number of low-income (less than $30,000 in nominal family income) students in overall 4-year completion cohort"
+MENONLY,260,0.038201587,Flag for men-only college
+WOMENONLY,260,0.038201587,Flag for women-only college
+CCBASIC,260,0.038201587," Carnegie Classification -- basic -2	Not applicable	IPEDS
+0	(Not classified)	
+1	Associate's Colleges: High Transfer-High Traditional	
+2	Associate's Colleges: High Transfer-Mixed Traditional/Nontraditional	
+3	Associate's Colleges: High Transfer-High Nontraditional	
+4	Associate's Colleges: Mixed Transfer/Career & Technical-High Traditional	
+5	Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional	
+6	Associate's Colleges: Mixed Transfer/Career & Technical-High Nontraditional	
+7	Associate's Colleges: High Career & Technical-High Traditional	
+8	Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional	
+9	Associate's Colleges: High Career & Technical-High Nontraditional	
+10	Special Focus Two-Year: Health Professions	
+11	Special Focus Two-Year: Technical Professions	
+12	Special Focus Two-Year: Arts & Design	
+13	Special Focus Two-Year: Other Fields	
+14	Baccalaureate/Associate's Colleges: Associate's Dominant	
+15	Doctoral Universities: Very High Research Activity	
+16	Doctoral Universities: High Research Activity	
+17	Doctoral/Professional Universities	
+18	Master's Colleges & Universities: Larger Programs	
+19	Master's Colleges & Universities: Medium Programs	
+20	Master's Colleges & Universities: Small Programs	
+21	Baccalaureate Colleges: Arts & Sciences Focus	
+22	Baccalaureate Colleges: Diverse Fields	
+23	Baccalaureate/Associate's Colleges: Mixed Baccalaureate/Associate's	
+24	Special Focus Four-Year: Faith-Related Institutions	
+25	Special Focus Four-Year: Medical Schools & Centers	
+26	Special Focus Four-Year: Other Health Professions Schools	
+27	Special Focus Four-Year: Engineering Schools	
+28	Special Focus Four-Year: Other Technology-Related Schools	
+29	Special Focus Four-Year: Business & Management Schools	
+30	Special Focus Four-Year: Arts, Music & Design Schools	
+31	Special Focus Four-Year: Law Schools	
+32	Special Focus Four-Year: Other Special Focus Institutions	
+33	Tribal Colleges	"
+HSI,263,0.038642374,Flag for Alaska Native Native Hawaiian serving institution
+TRIBAL,263,0.038642374, Flag for Historically Black College and University school
+PBI,263,0.038642374, Flag for predominantly black institution
+ANNHI,263,0.038642374,Number of students in the parents' education level cohort
+PAR_ED_N,274,0.040258595,Number of students in the parents' education level cohort
+FAMINC_IND,274,0.040258595,Average family income for independent students in real 2015 dollars
+MD_FAMINC,274,0.040258595,Median family income in real 2015 dollars
+FAMINC,274,0.040258595,Average family income in real 2015 dollars
+FIRST_GEN,274,0.040258595, Share of first-generation students
+VETERAN,274,0.040258595,Share of veteran students
+DEPENDENT,274,0.040258595, Share of dependent students
+MARRIED,274,0.040258595, Share of married students
+FEMALE,274,0.040258595, Share of female students
+AGE_ENTRY,274,0.040258595,Share of students who received a Pell Grant while in school
+PELL_EVER,274,0.040258595,Number of students in the family income cohort
+INC_N,274,0.040258595, Number of students in the family income dependent students cohort
+DEP_INC_N,274,0.040258595, Percentage of students who are financially independent and have family incomes between $0-30000
+IND_INC_PCT_LO,274,0.040258595, Percentage of students who are financially dependent and have family incomes between $0-30000
+DEP_INC_PCT_LO,274,0.040258595,Percentage first-generation studentsstudent.share_middleincome.30001_48000
+PAR_ED_PCT_1STGEN,274,0.040258595, Aided students with family incomes between $30001-$48000in nominal dollars
+INC_PCT_M1,274,0.040258595,Aided students with family incomes between $48
+INC_PCT_M2,274,0.040258595,"Aided students with family incomes between $48,001-$75,000 in nominal dollars"
+INC_PCT_H1,274,0.040258595,"Aided students with family incomes between $75,001-$110,000 in nominal dollars"
+INC_PCT_H2,274,0.040258595,Aided students with family incomes between $75
+DEP_STAT_PCT_IND,274,0.040258595,Percentage of students who are financially independent
+IND_INC_PCT_H2,274,0.040258595,"Independent students with family incomes between $110,001+ in nominal dollars"
+PAR_ED_PCT_MS,274,0.040258595, Aided students with family incomes between $110001+ in nominal dollars
+PAR_ED_PCT_HS,274,0.040258595, Percentage of students who are financially independent
+PAR_ED_PCT_PS,274,0.040258595,Independent students with family incomes between $110001+ in nominal dollars
+DEP_INC_AVG,274,0.040258595, Percent of students whose parents' highest educational level is middle school
+IND_INC_AVG,274,0.040258595,Percent of students whose parents' highest educational level is high school
+INC_PCT_LO,274,0.040258595,Percent of students whose parents' highest educational level was is some form of postsecondary education
+UGDS_WHITE,439,0.06450191,Average family income of dependent students in real 2015 dollars
+UGDS_BLACK,439,0.06450191,Average family income of independent students in real 2015 dollars
+UGDS_HISP,439,0.06450191,Percentage of aided students whose family income is between $0-$30000
+UGDS_AIAN,439,0.06450191,Total share of enrollment of undergraduate degree-seeking students who are white
+UGDS_ASIAN,439,0.06450191,Total share of enrollment of undergraduate degree-seeking students who are black
+UGDS_NHPI,439,0.06450191,Total share of enrollment of undergraduate degree-seekingstudents who are American Indian/Alaska Native
+UGDS_2MOR,439,0.06450191,Total share of enrollment of undergraduate degree-seeking students who are Asian
+UGDS_NRA,439,0.06450191, Total share of enrollment of undergraduate degree-seeking students who are Native Hawaiian/Pacific Islander
+PCTPELL,447,0.065677344, Total share of enrollment of undergraduate degree-seeking students who are two or more races
+PPTUG_EF,457,0.067146635, Total share of enrollment of undergraduate degree-seeking students who are non-resident aliens
+PFTFTUG1_EF,651,0.095650896,Percentage of undergraduates who receive a Pell Grant
+MD_EARN_WNE_P10,726,0.106670585, Share of undergraduate degree-/certificate-seeking students who are part-time
+MN_EARN_WNE_P10,726,0.106670585, Median earnings of students working and not enrolled 10 years after entry
+COUNT_NWNE_P10,726,0.106670585,Mean earnings of students working and not enrolled 10 years after entry
+COUNT_WNE_MALE0_P10,726,0.106670585,Number of students not working and not enrolled 10 years after entry
+COUNT_WNE_INDEP1_P10,726,0.106670585, Number of female students working and not enrolled 10 years after entry
+PCT_GRAD_PROF,1209,0.177637379, Percent of the population from students' zip codes over 25 with a professional degree
+PCT_ASIAN,1209,0.177637379,Percent of the population from students' zip codes that is Asian
+PCT_BLACK,1209,0.177637379,Percent of the population from students' zip codes that is black
+PCT_WHITE,1209,0.177637379,Percent of the population from students' zip codes that is white
+POVERTY_RATE,1209,0.177637379,"Percentage of the population from students’ home ZIP codes that are poor, poverty rate "
+AGEGE24,1209,0.177637379, Percent of students over 23 at entry
+UNEMP_RATE,1209,0.177637379,"Percentage of the population from students’ home ZIP codes that are unempolyed, unempolyenment rate "
+PCT_BORN_US,1209,0.177637379, Percent of the population from students' zip codes that was born in the US
+LN_MEDIAN_HH_INC,1209,0.177637379,Log of the median household income
+MEDIAN_HH_INC,1209,0.177637379,Median household income
+PCT_BA,1209,0.177637379,Percent of the population from students' zip codes with a bachelor's degree over the age 25
+NUM4_PRIV,1369,0.201146048,Number of Title IV students (private for-profit and nonprofit institutions)
+AVGFACSAL,1476,0.21686747,Average faculty salary
+TUITIONFEE_IN,1661,0.244049368, In-state tuition and fees
+PFTFAC,1685,0.247575669, Proportion of faculty that is full-time
+C150_L4,1783,0.261974728, Completion rate for first-time full-time students at less-than-four-year institutions (150% of expected time to completion)
+TUITIONFEE_OUT,1786,0.262415516, Out-of-state tuition and fees
+COSTT4_A,1883,0.276667646, Average cost of attendance (academic year institutions)
+C150_4,2282,0.335292389,"Completion rate for first-time, full-time students at four-year institutions (150% of expected time to completion)"
+D150_4,2282,0.335292389,Adjusted cohort count for completion rate at four-year institutions (denominator of 150% completion rate)
+ADM_RATE,2463,0.361886571, Admission rate
+NPT4_PUB,2703,0.397149574,Average net price for Title IV institutions (public institutions)
+NUM4_PUB,2703,0.397149574, Number of Title IV students (public institutions)
+SAT_AVG,2790,0.409932413,Average SAT equivalent score of students admitted
+SATMTMID,2820,0.414340288,Midpoint of SAT scores at the institution (math)
+SATVRMID,2821,0.414487217,Midpoint of SAT scores at the institution (critical reading)
+ACTENMID,2836,0.416691155,Midpoint of the ACT English score
+SATWRMID,3037,0.44622392, Midpoint of SAT scores at the institution (writing)
+UG_NRA,3371,0.495298266, Total share of enrollment of undergraduate students who are non-resident
+AGE_ENTRY_SQ,3371,0.495298266,Average of the age of entry squared
+NUM4_PROG,3371,0.495298266,Number of Title IV students (program-year institutions)
+LNFAMINC_IND,3371,0.495298266,Average of the log of family income for independent students
+LNFAMINC,3371,0.495298266,Average of the log of family income
+NPT4_PROG,3371,0.495298266, Average net price for the largest program at the institution for program-year institutions
+HIGHDEG,,,"0 Non-degree-granting
+ 1 Certificate degree
+ 2 Associate degree
+ 3 Bachelor's degree
+ 4 Graduate degree"""
+CCSIZSET,,,"
+0	(Not classified)
+1	Two-year, very small
+2	Two-year, small
+3	Two-year, medium
+4	Two-year, large
+5	Two-year, very large
+6	Four-year, very small, primarily nonresidential
+7	Four-year, very small, primarily residential
+8	Four-year, very small, highly residential
+9	Four-year, small, primarily nonresidential
+10	Four-year, small, primarily residential
+11	Four-year, small, highly residential
+12	Four-year, medium, primarily nonresidential
+13	Four-year, medium, primarily residential
+14	Four-year, medium, highly residential
+15	Four-year, large, primarily nonresidential
+16	Four-year, large, primarily residential
+17	Four-year, large, highly residential
+18	Exclusively graduate/professional"
