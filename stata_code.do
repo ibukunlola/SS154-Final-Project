@@ -31,3 +31,19 @@ esttab using "regression_1.tex", replace  ///
 * Create the residuals plot
 rvfplot, yline(0)
 
+
+* Generate the vif table 
+
+est clear  
+regress md_earn_wne_p6 log_population ln_median_hh_inc costt4_a ugds_white first_gen, robust
+eststo: vif
+
+mat A = `r(vif_1)', 1/`r(vif_1)' \ `r(vif_2)', 1/`r(vif_2)' \ `r(vif_3)', 1/`r(vif_3)' \ `r(vif_4)', 1/`r(vif_4)' \ `r(vif_5)', 1/`r(vif_5)'
+mat B = A[1...,1]               // extract first column in order to compute mean
+mat sm = J(rowsof(B),1,1)'*B    // sum of column elements
+mat vifmean = sm/rowsof(B)      // compute VIF mean
+mat A = A\ vifmean, .           // append A by vifmean
+mat rownames A = `r(name_1)' `r(name_2)' `r(name_3)' `r(name_4)' `r(name_5)' "Mean VIF"
+mat colnames A = VIF 1/VIF
+
+frmttable using "vif_test.tex", statmat(A) sdec(2) varlabels tex fragment nocenter replace
